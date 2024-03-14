@@ -704,7 +704,8 @@ body.open .hamburger .bar:last-child {
 .slider-logo img {
   width: 100px;
   height: 100px;
-  animation: scroll 20s linear infinite;
+  animation: scroll 27s linear infinite;
+  cursor: pointer;
 }
 
 .slide-track {
